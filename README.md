@@ -31,8 +31,8 @@ After navigating to love-travel-backend, in that directory:
 
 ## Frontend Setup
 After navigating to love-travel-frontend, in that directory: 
-1. Install dependencies `yarn install` 
-2. Start your server `yarn start` 
+1. Install dependencies `npm install` 
+2. Start your server `npm start` 
 
 ## In Your Browser 
 Navigate to the web address of your Node server [http://localhost:3001](http://localhost:3001) - or whatever yours is
