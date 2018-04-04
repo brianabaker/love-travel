@@ -43,7 +43,7 @@ class Home extends React.Component {
 
     return (
       <div style={sectionStyle} className="ui grid">
-        {this.state.redirect ? <Redirect to="/map" /> : null}
+        {this.state.redirect ? <Redirect to="/welcome" /> : null}
         <div className="three wide column" />
         <div className="four wide column">
           <h2
